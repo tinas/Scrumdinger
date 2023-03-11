@@ -1,6 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-*/
+//
+//  History.swift
+//  Scrumdinger
+//
+//  Created by Ahmet Tınastepe on 11.03.2023.
+//
 
 import Foundation
 
